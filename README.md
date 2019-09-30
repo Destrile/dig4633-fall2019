@@ -11,3 +11,5 @@ Template for course repository
 As you complete each lab, you should provide a description of your features and changes here.
 
 ### VR Lab: TITLE HERE
+//Lab 1
+//Intent - Be able to fire the gun found on the barrel. 
